@@ -1,0 +1,22 @@
+[FORENSIX SIMULATED DIGITAL EVIDENCE]
+FILE: patch-v4.zip.txt (Simulated Ingested Artifact)
+TIMESTAMP: 2026-11-16 09:21:00 UTC
+INVESTIGATION SCENARIO: Incident INC-2026-DEMO
+SIMULATED STATUS: Unverified external download flagged by host monitoring.
+
+EVIDENCE CONTENT PAYLOAD:
+# Simulated executable configuration payload
+[HEADER]
+MAGIC=0x4D5A
+PLATFORM=x86_64
+BUILD_DATE=2026-11-16
+PAYLOAD_HASH=DEMO_ONLY_SIMULATED_RECORD
+
+[INSTRUCTIONS]
+ACTION=EXECUTE_DIAGNOSTIC
+REPORT_TO=192.168.1.145:8443
+HASH_INTEGRITY=VERIFIED_LOCAL
+
+[DISCLAIMER]
+This artifact is strictly synthetic test data created for the FORENSIX digital forensics evaluation.
+No actual malware or proprietary payloads are contained herein.

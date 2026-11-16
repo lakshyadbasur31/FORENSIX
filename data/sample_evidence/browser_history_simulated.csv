@@ -1,0 +1,5 @@
+timestamp,url,title,visit_count,typed_count
+2026-11-16 09:08:10,https://internal-portal.corp.local/dashboard,Corporate Internal Portal,4,1
+2026-11-16 09:10:02,https://search.engine.internal/q?update+utility,Internal Search Engine,2,1
+2026-11-16 09:14:35,https://cdn-updates-mirror99.net/packages/x64,External Mirror Repository (Unfamiliar),1,0
+2026-11-16 09:15:12,https://cdn-updates-mirror99.net/packages/x64/patch-v4.zip,Direct Download Link,1,0

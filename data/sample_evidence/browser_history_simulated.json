@@ -1,0 +1,33 @@
+[
+  {
+    "timestamp": "2026-11-16 09:10:00",
+    "url": "https://example.com/login?user=analyst&token=SUPER_SECRET_TOKEN_99",
+    "title": "Example Corporation Portal",
+    "visit_count": 1
+  },
+  {
+    "timestamp": "2026-11-16 09:12:30",
+    "url": "https://example.org/docs",
+    "title": "Example Org Documentation",
+    "visit_count": 2
+  },
+  {
+    "timestamp": "2026-11-16 09:14:00",
+    "url": "http://192.0.2.145:8088/staging/inventory",
+    "title": "Direct IP Staging Portal",
+    "visit_count": 1
+  },
+  {
+    "timestamp": "2026-11-16 09:15:00",
+    "url": "https://xn--e1afmkfd.example.net/portal",
+    "title": "IDN Punycode Example",
+    "visit_count": 1
+  },
+  {
+    "timestamp": "2026-11-16 09:18:00",
+    "url": "http://192.0.2.145:8088/payloads/diagnostic_tool.exe",
+    "title": "Diagnostic Tool Executable Download",
+    "target_path": "C:/Users/analyst/Downloads/diagnostic_tool.exe",
+    "event_type": "DOWNLOAD"
+  }
+]
